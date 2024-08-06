@@ -20,12 +20,6 @@
 ## 📫 連絡先
 
 - **メール**:koutarou2370@gmail.com
-- **Twitter**:
-- **LinkedIn**: 
-
-## 📈 GitHub統計
-
-![あなたのGitHub統計](https://github-readme-stats.vercel.app/api?username=chichi88539&show_icons=true&theme=radical)
 
 ## 👀 その他
 
